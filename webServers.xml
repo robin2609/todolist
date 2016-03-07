@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="442b7d8d-bcc0-4834-81a6-af356bc8d012" name="Download" url="https://github.com/robin2609/todolist.git">
+        <fileTransfer mountedRoot="/Applications/XAMPP/htdocs/todolist" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>
